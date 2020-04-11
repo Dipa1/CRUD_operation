@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.btn{
+    border-radius: 5px;
+
+}
+
+.row{
+    margin-top: 20px;
+    display: none;
+}
+.user{
+    margin-top: 40px;
+}
